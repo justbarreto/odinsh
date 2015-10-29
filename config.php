@@ -4,7 +4,7 @@
 $LOCAL_ROOT         = "/var/www/odinshonor";
 $LOCAL_REPO_NAME    = "public_html";
 $LOCAL_REPO         = "{$LOCAL_ROOT}/{$LOCAL_REPO_NAME}";
-$REMOTE_REPO        = "git@github.com:justbarreto/odinshonor";
+$REMOTE_REPO        = "git@github.com:justbarreto/odinsh";
 $DESIRED_BRANCH     = "dev";
 
 // Delete local repo if it exists
