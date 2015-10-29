@@ -1,0 +1,11 @@
+node_modules
+build
+*.sassc
+*.scssc
+*.psd
+*.ai
+package.json
+gruntFile.js
+LICENSE
+README.md
+.DS_Store
